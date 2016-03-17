@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458202002 source:c:\users\jj\desktop\dtgh_lcs\main.cpp
+	<iostream>
+	"LCS.h"
+
+1458201254 c:\users\jj\desktop\dtgh_lcs\lcs.h
+
+1458202257 source:c:\users\jj\desktop\dtgh_lcs\lcs.cpp
+	"LCS.h"
+	<iostream>
+	<string.h>
+	<stack>
+
